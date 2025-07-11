@@ -10,7 +10,7 @@
 
 ## Curriculum Overview
 
-[slides](https://docs.google.com/presentation/d/1m3R_aN4S5YoCBmXRbjaZQGatygWyZXYLcN-fkcP_HWA)
+[slides](https://docs.google.com/presentation/d/1_NWYcPhS6Q3hQKXnh09Eufl7hs45yBLbUBZhWyvqeSc/edit?slide=id.ge52f3d8942_0_74#slide=id.ge52f3d8942_0_74)
 
 ## Remote Lecture
 
@@ -221,3 +221,5 @@ We'll post the Zoom and VS Code LiveShare links each morning in the channel.
   - Readability
   - Modularity
   - Catch errors
+
+Notes credit to Francis
